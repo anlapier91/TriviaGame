@@ -1,0 +1,31 @@
+You'll create a trivia form with multiple choice or true/false options (your choice).
+
+* The player will have a limited amount of time to finish the quiz. 
+
+  * The game ends when the time runs out. The page will reveal the number of questions that players answer correctly and incorrectly.
+
+* Don't let the player pick more than one answer per question.
+
+* Don't forget to include a countdown timer.
+
+User loads page
+
+User presses button to start countdown.
+
+The goal of the app is for the users to answer a certain number of questions in a certain amount of time.
+If the user runs out of time, the game ends.
+Users are granted one point for each correct answer.  Users do not get a point for incorrect answers.
+At the end of the quiz, or after every question has been answered, the user's score is displayed.
+
+Within the game there are 8 questions.
+
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+
+Users have 80 seconds to answer all questions.
